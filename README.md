@@ -1,8 +1,5 @@
 # 💫 About Me:
-Software Engineer with 8+ years of experience in backend, frontend, and mobile development.
-Skilled in NestJS, Node.js, Next.js, Laravel, and Flutter, delivering scalable and high-performance
-applications across diverse industries. Strong track record in end-to-end project delivery and
-client-focused solutions.
+I am a software engineer. Over the last 9+ years, I have built offline-first mobile apps in Flutter for Indian Railways, spatial mapping tools with PostGIS, and backend ERP platforms in NestJS and PostgreSQL.
 
 
 ## 🌐 Socials:
